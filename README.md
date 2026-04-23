@@ -7,6 +7,7 @@
 ## 📁 File Description
 - `project_Group2.ipynb` - Main project code (Jupyter Notebook)
 - `data_clean.csv` - Cleaned dataset
+- `data_original.csv`-Raw dataset (unprocessed)
 
 ## 🚀 How to Run
 1. Click `project_Group2.ipynb` to preview the file contents
